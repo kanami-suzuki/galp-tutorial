@@ -1,0 +1,11 @@
+{
+  "name": "galp-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kanami-suzuki/galp-tutorial.git",
+  "author": "github kanami-suzuki <nodousa@yahoo.co.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
